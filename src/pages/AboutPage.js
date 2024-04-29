@@ -41,7 +41,7 @@ const AboutPage = () => {
 					opacity: [0, 1],
 				}}
 				transition={{
-					duration: 1.8,
+					duration: 1.7,
 					ease: 'easeInOut',
 				}}
 			>
@@ -72,7 +72,7 @@ const AboutPage = () => {
 					opacity: [0, 1],
 				}}
 				transition={{
-					duration: 1.4,
+					duration: 2.2,
 					ease: 'easeInOut',
 				}}
 				style={{
