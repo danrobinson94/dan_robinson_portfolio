@@ -156,7 +156,7 @@ const App = () => {
 						alignItems: 'center',
 						fontSize: '30px',
 						alignText: 'center',
-						height: '70px',
+						// height: '70px',
 						width: '100%',
 					}}
 				>
@@ -167,10 +167,18 @@ const App = () => {
 							justifyContent: 'space-between',
 						}}
 					>
-						<a href='https://www.linkedin.com' target='_blank' rel='noreferrer'>
+						<a
+							href='https://www.linkedin.com/in/danielrobinson94/'
+							target='_blank'
+							rel='noreferrer'
+						>
 							<LinkedinOutlined />
 						</a>
-						<a href='https://www.github.com' target='_blank' rel='noreferrer'>
+						<a
+							href='https://github.com/danrobinson94'
+							target='_blank'
+							rel='noreferrer'
+						>
 							<GithubOutlined />
 						</a>
 					</div>
