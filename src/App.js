@@ -157,6 +157,7 @@ const App = () => {
 						fontSize: '30px',
 						alignText: 'center',
 						// height: '70px',
+						// height: '70px',
 						width: '100%',
 					}}
 				>
